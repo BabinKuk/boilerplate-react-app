@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Dashboard Page rendering 1`] = `
+<div>
+  DashboardPage content. Add components here
+</div>
+`;
